@@ -1,0 +1,67 @@
+{
+  "user": [
+    {
+      "id": "2",
+      "name": "jimena",
+      "surname": "cama",
+      "email": "holi@holi.com",
+      "password": "chocklitchopr",
+      "phone": "933935024",
+      "registerDate": "2024-06-26T04:03:44.156Z",
+      "user_type_id": "1"
+    },
+    {
+      "id": 0,
+      "name": "jimena",
+      "surname": "cama",
+      "email": "holi@gmail.com",
+      "password": "holi123",
+      "phone": "933935024",
+      "registerDate": "2024-06-26T19:40:23.121Z",
+      "user_type_id": "1"
+    },
+    {
+      "id": 0,
+      "name": "jimena",
+      "surname": "jimw",
+      "email": "jimena@123.com",
+      "password": "dewfregrtge",
+      "phone": "933936502",
+      "registerDate": "2024-06-26T19:46:06.604Z",
+      "user_type_id": "1"
+    },
+    {
+      "id": 0,
+      "name": "barbara",
+      "surname": "quezada",
+      "email": "barbs@upc.edu.pe",
+      "password": "holi123",
+      "phone": "988975936",
+      "registerDate": "2024-06-26T19:47:54.140Z",
+      "user_type_id": "2"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "user": "salva@hotmail.com",
+      "title": "mi primer post",
+      "content": "este es mi primer post",
+      "likes": 0
+    },
+    {
+      "id": "2",
+      "user": "jimena@gmail.com",
+      "title": "nuevo evento",
+      "content": "Evento el 27 de junio en el campus",
+      "likes": 0
+    },
+    {
+      "id": 0,
+      "user": "barbs@upc.edu.pe",
+      "title": "Nuevo evento",
+      "content": "estoy muy emocionada",
+      "likes": 0
+    }
+  ]
+}
